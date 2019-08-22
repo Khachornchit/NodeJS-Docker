@@ -1,4 +1,4 @@
-# Docker with Node.js
+# Node.js Docker
 A simple docker with node.js
 
 * docker build -t hi-nodejs .
