@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  app:
+    container_name: hi-nodejs
+    restart: always
+    build: .
+    ports:
+      - '8081:8081'
